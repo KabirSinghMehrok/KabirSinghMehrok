@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kabir Singh Mehrok</h1>  
 <h3 align="center">I'm passionate for building user-centered products</h3>  
     
-- 🔭 I’m currently working on [**Simply JSON**](simply-json.netlify.app)
+- 🔭 I’m currently working on [**Simply JSON**](simply-json.netlify.app) and **Simply Paste**
 - 💬 Ask me about **how to build great user applications**  
 - 📫 How to reach me **mehrok.kabir.singh@gmail.com**  
   
